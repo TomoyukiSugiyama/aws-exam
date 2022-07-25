@@ -1,4 +1,6 @@
 # 信頼性
+https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/reliability-pillar/welcome.html
+
 AWS における障害の防止、障害時の復旧について記載する。
 
 * 障害から自動的に復旧する

@@ -1,4 +1,6 @@
 # セキュリティ
+https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html
+
 AWS 上で構築したシステムとデータをどのように保護するかを記載する。
 
 * 強力なアイデンティティ基盤を実装する

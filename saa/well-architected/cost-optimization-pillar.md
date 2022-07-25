@@ -1,4 +1,6 @@
 # コスト最適化
+https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/cost-optimization-pillar/welcome.html
+
 AWS 上での不要なコストの回避や最適化について記載する。
 
 * クラウド財務管理を実装する

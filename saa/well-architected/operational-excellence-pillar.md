@@ -1,4 +1,6 @@
 # 運用上の優秀性
+https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/operational-excellence-pillar/welcome.html
+
 運用面でどのような点に考慮すべきかを記載する。
 
 * 運用をコードとして実行する
