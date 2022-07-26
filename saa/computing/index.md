@@ -1,4 +1,4 @@
-# Computing
+# コンピューティング
 
 * Amazon EC2
 * AWS Elastic Beanstalk

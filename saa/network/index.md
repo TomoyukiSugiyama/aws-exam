@@ -1,4 +1,4 @@
-# Network
+# ネットワーク、コンテンツ配信
 
 * Amazon API Gateway
 * Amazon CloudFront
