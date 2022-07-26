@@ -1,4 +1,4 @@
-# network
+# Network
 
 * VPC (Amazon Virtual Private Cloud)
 * サブネット (パブリックサブネット, プラリベートサブネット)
