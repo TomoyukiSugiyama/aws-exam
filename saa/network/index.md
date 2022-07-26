@@ -1,24 +1,22 @@
 # Network
 
-* VPC (Amazon Virtual Private Cloud)
+* Amazon API Gateway
+* Amazon CloudFront
+* AWS Direct Connect
+* AWS Global Accelerator
+* Amazon Route 53
+* AWS Transit Gateway
+* Amazon Virtual Private Cloud (Amazon VPC)
 * サブネット (パブリックサブネット, プラリベートサブネット)
-* IGW (Internet Gateway)
+* Internet Gateway (IGW)
 * ルートテーブル
 * NAT ゲートウェイ
 * セキュリティグループ
 * ネットワーク ACL
-* AWS Direct Connect
 * Site to Site PVN
-* VGW (Virtual Private Gateway)
+* Virtual Private Gateway (VGW)
 * VPC ピアリング
-* AWS Transit Gateway
 * VPC エンドポイント (ゲートウェイ型, インターフェイス型)
-* ELB (CLB, ALB, NLB)
 * Auto Scaling
-* Amazon Route 53
-* Amazon CloudFront
-* AWS Global Accelarator
 * VPC フローログ
-* EIP (Elastic IP)
-* RAM (AWS Resource Access Manager)
-* AWS DataSync
+* Elastic IP (EIP)

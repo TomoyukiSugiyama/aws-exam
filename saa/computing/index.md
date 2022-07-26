@@ -1,12 +1,9 @@
 # Computing
 
-* EC2 (Amazon Elastic Compute Cloud)
-* AMI (Amazon Machine Image)
-* AWS Lambda
-* Amazon API Gateway
-* ECS (Amazon Elastic Container Service)
-* EKS (Amazon Elastic Kubernetes Service)
+* Amazon EC2
+* AWS Elastic Beanstalk
+* Amazon Elastic Container Service (Amazon ECS)
+* Amazon Elastic Kubernetes Service (Amazon EKS)
+* Elastic Load Balancing
 * AWS Fargate
-* EMR Amazon Elastic MapReduce
-* VM Import / Export
-* Amazon Lightsail
+* AWS Lambda
