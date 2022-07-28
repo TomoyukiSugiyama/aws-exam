@@ -26,6 +26,12 @@
 ## AWS Transit Gateway
 VPC 内のハブの機能を持ったゲートウェイ
 
+## Amazon Route 53
+* 可用性の高い DNS
+* パブリックホストゾーンとプライベートホストゾーンに分類 
+* パブリックホストゾーンは、外部向け DNS
+* プライベートホストゾーンは、VPC 内で利用
+
 ## Amazon Virtual Private Cloud (Amazon VPC)
 論理的に分割された、特定のユーザーだけが利用できるプライベートネットワーク
 
