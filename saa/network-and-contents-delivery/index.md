@@ -17,7 +17,6 @@
 * Virtual Private Gateway (VGW)
 * VPC ピアリング
 * VPC エンドポイント
-* Auto Scaling
 * VPC フローログ
 * Elastic IP (EIP)
 
