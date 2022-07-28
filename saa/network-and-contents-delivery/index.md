@@ -21,6 +21,9 @@
 * VPC フローログ
 * Elastic IP (EIP)
 
+## AWS Direct Connect
+オンプレミス環境と AWS 間を専用線で接続
+
 ## Amazon Virtual Private Cloud (Amazon VPC)
 論理的に分割された、特定のユーザーだけが利用できるプライベートネットワーク
 
