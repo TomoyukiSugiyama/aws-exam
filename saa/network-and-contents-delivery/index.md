@@ -16,13 +16,16 @@
 * Site to Site VPN
 * Virtual Private Gateway (VGW)
 * VPC ピアリング
-* VPC エンドポイント (ゲートウェイ型, インターフェイス型)
+* VPC エンドポイント
 * Auto Scaling
 * VPC フローログ
 * Elastic IP (EIP)
 
 ## AWS Direct Connect
 オンプレミス環境と AWS 間を専用線で接続
+
+## AWS Transit Gateway
+VPC 内のハブの機能を持ったゲートウェイ
 
 ## Amazon Virtual Private Cloud (Amazon VPC)
 論理的に分割された、特定のユーザーだけが利用できるプライベートネットワーク
@@ -66,3 +69,12 @@
 ## Virtual Private Gateway (VGW)
 * オンプレミス環境と AWS を接続する際のゲートウェイ
 * Direct Connect 接続、Site to Site VPN で利用
+
+## VPC ピアリング
+VPC 間をプライベート接続
+
+## VPC エンドポイント
+* プライベートネットワークから AWS サービスへアクセスするためのエンドポイント
+* ゲートウェイ型とインターフェイス型に分類
+* ゲートウェイ型は、ルートテーブルに指定されたターゲットを追加
+* インターフェイス型は、「AWS Private Link」とも呼ばれ、インターネットを経由せずプライベート接続
