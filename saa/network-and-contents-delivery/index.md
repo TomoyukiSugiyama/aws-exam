@@ -32,6 +32,9 @@
 ## AWS Direct Connect
 オンプレミス環境と AWS 間を専用線で接続
 
+## AWS Global Accelerator
+エッジロケーションを経由し、AWS が管理するネットワーク網を利用することでトラフィックを最適化
+
 ## AWS Transit Gateway
 VPC 内のハブの機能を持ったゲートウェイ
 
