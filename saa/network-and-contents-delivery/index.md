@@ -13,7 +13,7 @@
 * NAT ゲートウェイ
 * セキュリティグループ
 * ネットワーク ACL
-* Site to Site PVN
+* Site to Site VPN
 * Virtual Private Gateway (VGW)
 * VPC ピアリング
 * VPC エンドポイント (ゲートウェイ型, インターフェイス型)
@@ -58,3 +58,11 @@
 * アウトバウンド通信、インバウンド通信は全て許可
 * ルールに番号を割り当て、番号順に許可または拒否のルールを適用
 * **ステートレス**な通信
+
+## Site to Site VPN
+* インターネットを経由して、オンプレミス環境と AWS 間を接続
+* 低コスト、短期間で導入可能
+
+## Virtual Private Gateway (VGW)
+* オンプレミス環境と AWS を接続する際のゲートウェイ
+* Direct Connect 接続、Site to Site VPN で利用
