@@ -20,6 +20,9 @@
 * VPC フローログ
 * Elastic IP (EIP)
 
+## Amazon API Gateway
+API の作成、配布、保守、監視、保護
+
 ## Amazon CloudFront
 * エッジロケーションからコンテンツを配信する CDN
 * オリジンとして、ELB、EC2、S3 などを指定
@@ -35,14 +38,14 @@
 ## AWS Global Accelerator
 エッジロケーションを経由し、AWS が管理するネットワーク網を利用することでトラフィックを最適化
 
-## AWS Transit Gateway
-VPC 内のハブの機能を持ったゲートウェイ
-
 ## Amazon Route 53
 * 可用性の高い DNS
 * パブリックホストゾーンとプライベートホストゾーンに分類 
 * パブリックホストゾーンは、外部向け DNS
 * プライベートホストゾーンは、VPC 内で利用
+
+## AWS Transit Gateway
+VPC 内のハブの機能を持ったゲートウェイ
 
 ## Amazon Virtual Private Cloud (Amazon VPC)
 論理的に分割された、特定のユーザーだけが利用できるプライベートネットワーク
