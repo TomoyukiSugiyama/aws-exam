@@ -16,3 +16,9 @@
 * EBS-Backed インスタンスは、EBS を OS のルート領域として利用
 * Instance Store-Backed インスタンスは、インスタンスストアを OS のルート領域として利用
 
+## AWS Lambda
+* アプリケーションコードのデプロイのみで動作するサーバレスなサービス
+* ExecutionRole でアクセス制御を設計
+* ログは、CloudWatch Logs に保存
+* Lambda@Edge は、Lambda とは異なり CloudFront の機能であり、ユーザーに最も近い場所で実行
+
