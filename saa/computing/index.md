@@ -17,9 +17,12 @@
 * Instance Store-Backed インスタンスは、インスタンスストアを OS のルート領域として利用
 
 ## Amazon Elastic Container Service (Amazon ECS)
-フルマネージド型のコンテナオーケストレーション
+* フルマネージド型のコンテナオーケストレーション
+* Docker 向け
 
 ## Amazon Elastic Kubernetes Service (Amazon EKS)
+* フルマネージド型のコンテナオーケストレーション
+* Kubernetes 向け
 
 ## AWS Lambda
 * アプリケーションコードのデプロイのみで動作するサーバレスなサービス
