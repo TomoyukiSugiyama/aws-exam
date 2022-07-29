@@ -16,6 +16,13 @@
 * EBS-Backed インスタンスは、EBS を OS のルート領域として利用
 * Instance Store-Backed インスタンスは、インスタンスストアを OS のルート領域として利用
 
+## AWS Elastic Beanstalk
+* Web アプリケーションやサービスをサーバーにデプロイ
+* 実行環境の管理
+* 自動的に容量のプロビジョニング、負荷分散、拡張、アプリケーションの状態の監視
+* Java、.NET、PHP、Node.js、Python、Ruby、Go が利用可
+* アプリケーションのデプロイ先は、Apache HTTP Server、Nginx、Passenger、Microsoft Internet Information Service (IIS)など
+
 ## Amazon Elastic Container Service (Amazon ECS)
 * フルマネージド型のコンテナオーケストレーション
 * Docker 向け
