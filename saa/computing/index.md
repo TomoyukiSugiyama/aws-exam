@@ -16,6 +16,11 @@
 * EBS-Backed インスタンスは、EBS を OS のルート領域として利用
 * Instance Store-Backed インスタンスは、インスタンスストアを OS のルート領域として利用
 
+## Amazon Elastic Container Service (Amazon ECS)
+フルマネージド型のコンテナオーケストレーション
+
+## Amazon Elastic Kubernetes Service (Amazon EKS)
+
 ## AWS Lambda
 * アプリケーションコードのデプロイのみで動作するサーバレスなサービス
 * ExecutionRole でアクセス制御を設計
