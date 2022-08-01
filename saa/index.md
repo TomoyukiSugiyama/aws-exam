@@ -5,7 +5,7 @@
 
 ## サービス
 
-* [Analytics](/saa/analytics/index.md)
+* [Analytics](/aws-exam/saa/analytics/index.md)
 * [Application Integration](/saa/application-integration/index.md)
 * [Computing](/saa/computing/index.md)
 * [Database](/saa/database/index.md)
