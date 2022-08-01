@@ -1,16 +1,16 @@
 # SAA ( Solution Architect Associate )
 
-* [Well-architected Framework](/saa/well-architected/index.md)  
+* [Well-architected Framework](/aws-exam/saa/well-architected/index.html)  
   https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/welcome.html
 
 ## サービス
 
 * [Analytics](/aws-exam/saa/analytics/index.html)
-* [Application Integration](/saa/application-integration/index.md)
-* [Computing](/saa/computing/index.md)
-* [Database](/saa/database/index.md)
-* [Management and Governance](/saa/management-and-governance/index.md)
-* [Migration and Transfer](/saa/migration-and-transfer/index.md)
-* [Network and Contents Derivery](/saa/network-and-contents-delivery/index.md)
-* [Security Indetify and Compliance](/saa/security-identity-and-compliance/index.md)
-* [Strage](/saa/storage/index.md)
+* [Application Integration](/aws-exam/aws-exam/saa/application-integration/index.html)
+* [Computing](/aws-exam/saa/computing/index.html)
+* [Database](/aws-exam/saa/database/index.html)
+* [Management and Governance](/aws-exam/saa/management-and-governance/index.html)
+* [Migration and Transfer](/aws-exam/saa/migration-and-transfer/index.html)
+* [Network and Contents Derivery](/aws-exam/saa/network-and-contents-delivery/index.html)
+* [Security Indetify and Compliance](/aws-exam/saa/security-identity-and-compliance/index.html)
+* [Strage](/aws-exam/saa/storage/index.html)
