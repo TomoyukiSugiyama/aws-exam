@@ -7,6 +7,11 @@
 * AWS Snowball
 * AWS Transfer Family
 
+## AWS Database Migration Service (AWS DMS)
+* データベースを AWS に移行するサービス
+* 移行中でも、ソースデータベースは完全に利用可能
+* 異なるデータベースプラットフォーム間の移行をサポート
+
 ## AWS DataSync
 * オンプレミス環境のストレージと AWS のストレージサービス間でデータ転送を高速に行うサービス
 * エージェントを導入することで利用可
