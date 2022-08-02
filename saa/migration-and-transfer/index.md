@@ -32,3 +32,6 @@
 * AWS から物理搬送される耐久性の高い筐体に 80 TB までのデータを保管し、AWS 内のストレージへ転送するサービス
 * Snowball 内のデータは自動的に暗号化
 * 拡張版として AWS Snowball Edge があり、100 TB のストレージ、より多くのネットワークインターフェイスをサポート
+
+## AWS Transfer Familly
+* Family は、SFTP、FTPS、FTP プロトコルを使用して、Amazon Simple Storage Service (S3) および Amazon Elastic File System (EFS) へファイル転送
