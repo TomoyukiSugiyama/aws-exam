@@ -27,4 +27,6 @@
 * Kinesis Data Firehose は、ストリーミングデータの保存
 * Kinesis Data Analytics は、ストリーミングデータの分析
 
-
+## Amazon QuickSight
+* フルマネージド型の BI サービス
+* RDS や Redshift などのデータベースサービス、S3、Athena などと連携し、ダッシュボードで可視化
