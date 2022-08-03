@@ -20,3 +20,11 @@
 ## AWS Glue
 * 分析、機械学習、アプリケーション開発のためのデータの検出、準備、結合を簡単に行える、サーバーレスデータ統合サービス
 
+## Amazon Kinesis
+* リアルタイムに流れてくるデータの処理 (ストリーミング処理)
+* Kinesis Data Stream、Kinesis Data Firehose、Kinesis Data Analyticsからなる
+* Kinesis Data Stream は、ストリーミングデータを収集。シャードと呼ばれる単位でデータを分割して並列処理
+* Kinesis Data Firehose は、ストリーミングデータの保存
+* Kinesis Data Analytics は、ストリーミングデータの分析
+
+
