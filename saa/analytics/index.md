@@ -6,3 +6,6 @@
 * AWS Glue
 * Amazon Kinesis
 * Amazon QuickSight
+
+## Amazon Athena
+* サーバレスのクエリサービス
