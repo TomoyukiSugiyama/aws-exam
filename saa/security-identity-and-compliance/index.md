@@ -21,3 +21,8 @@
 * Microsoft AD は、AWS 上で AD サービスを利用可
 * Simple AD は、AWS 上で AD 互換の Samba サービスを利用可
 * AD Connector は、既存の AD 環境へ接続するためのプロキシサービス
+
+## Amazon GuardDuty
+* CloudTrail、VPC フローログ、Amazon Route 53 のクエリログといった各種ログを監視し、悪意のある第 3 者による攻撃や不正操作などのセキュリティ脅威を検知するサービス
+* 機械学習により不正な動作の学習、異常検知
+
