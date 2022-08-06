@@ -53,3 +53,6 @@
 * 複数の AWS アカウント作成の自動化やグループ化による集中管理、グループにポリシーを適用したアクセス管理を実現するサービス
 * サービスコントロールポリシー (SCP) によって複数の AWS アカウントに対して、IAM ポリシーのような権限制御を統合的に管理・適用
 
+## AWS Resource Access Manager
+* AWS Organizations 組織内で、サブネットや AWS Transit Gateway のリソースを共有するサービス
+
