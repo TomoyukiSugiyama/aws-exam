@@ -56,3 +56,8 @@
 ## AWS Resource Access Manager
 * AWS Organizations 組織内で、サブネットや AWS Transit Gateway のリソースを共有するサービス
 
+## AWS Systems Manager
+* AWS 内の様々なリソースの運用情報を統合定期に可視化、および制御するサービス
+* AWS 内で利用する様々なパラメータを一元管理
+* オートメーション機能や実行コマンド機能により、EC2 インスタンスなど様々な AWS リソースに対する運用タスクの制御を自動化
+
