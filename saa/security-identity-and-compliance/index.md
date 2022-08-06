@@ -15,3 +15,9 @@
 ## AWS Certificate Manager (ACM)
 * SSL/TLS 証明書の購入や登録、更新などの一元管理ができるサービス
 
+## AWS Directory Service
+* AWS のクラウド内で管理されるマネージド型の Microsoft AD
+* Mictosoft AD、Simple AD、AD Connector の３つのディレクトリタイプを提供
+* Microsoft AD は、AWS 上で AD サービスを利用可
+* Simple AD は、AWS 上で AD 互換の Samba サービスを利用可
+* AD Connector は、既存の AD 環境へ接続するためのプロキシサービス
