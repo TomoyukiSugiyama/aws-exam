@@ -57,3 +57,7 @@
 ## AWS Shield
 * Dos (Denial of Services) や DDoS (Distributed Denial of Services) に代表される一斉攻撃に対する防御
 
+## AWS Single Sign-On
+* AWS 上でワークフォースアイデンティティを作成、または接続し、AWS 組織全体のアクセスを一元管理
+* AWS SSO からだけでなく、Microsoft アクティブディレクトリや、Okta Universal Directory や Azure AD などの標準ベースの ID プロバイダーから利用可
+
