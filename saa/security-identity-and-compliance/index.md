@@ -11,3 +11,7 @@
 * AWS Shield
 * AWS Single Sign-On
 * AWS WAF
+
+## AWS Certificate Manager (ACM)
+* SSL/TLS 証明書の購入や登録、更新などの一元管理ができるサービス
+
