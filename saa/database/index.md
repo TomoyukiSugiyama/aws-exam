@@ -34,3 +34,7 @@
 ## Amazon ElasticCache
 * マネージド型のインメモリデータベース
 
+## Amazon RDS
+* マネージド型のリレーショナルデータベースサービス
+* Amazon Aurora、PostgreSQL、MySQL、MariaDB、Oracle Database、Microsoft SQL Server をサポート
+
