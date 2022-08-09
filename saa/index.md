@@ -3,6 +3,10 @@
 * [Well-architected Framework](/aws-exam/saa/well-architected/index.html)  
   https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/welcome.html
 
+## ガイド
+
+* [Exam Guide](exam-guide.html)
+
 ## サービス
 
 * [Analytics](/aws-exam/saa/analytics/index.html)
