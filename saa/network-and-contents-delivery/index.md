@@ -34,6 +34,7 @@
 
 ## AWS Direct Connect
 * オンプレミス環境と AWS 間を専用線で接続
+* Direct Connect の追加機能として Direct Connect ゲートウェイがあり、オンプレミス環境とゼンリージョンの複数の VPC を 1 対多で接続可能
 
 ## AWS Global Accelerator
 * エッジロケーションを経由し、AWS が管理するネットワーク網を利用することでトラフィックを最適化
