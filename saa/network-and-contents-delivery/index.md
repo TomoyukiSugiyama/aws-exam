@@ -84,7 +84,7 @@
 * **ステートレス**な通信
 
 ## Site to Site VPN
-* インターネットを経由して、オンプレミス環境と AWS 間を接続
+* IP パケットを暗号化した IPsec を利用し、オンプレミス環境と AWS 間を接続
 * 低コスト、短期間で導入可能
 
 ## Virtual Private Gateway (VGW)
