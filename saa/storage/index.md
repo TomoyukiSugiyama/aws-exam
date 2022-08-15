@@ -78,6 +78,8 @@
 * Glacier Deep Archive は、より安価でr利用可
 * 標準 (Standard) は、12 時間以内にアーカイブデータの取り出しが可能
 * 大容量 (Bulk) は、48 時間以内にアーカイブデータの取り出しが可能
+* S3 Glacier Flexible Retrieval は、Glacier を指す
+* S3 Glacier Instant Retrieval は、アクセスされることが帆どんどなく、ミリ秒単位の取り出しが必要な長期間有効なデータ向け
 
 ## AWS Storage Gateway
 * S3 へ NFS、SMB、iSCSI といった標準プロトコルでアクセスできるサービス
