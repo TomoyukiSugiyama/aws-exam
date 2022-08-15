@@ -24,7 +24,7 @@
 * リアルタイムに流れてくるデータの処理 (ストリーミング処理)
 * Kinesis Data Stream、Kinesis Data Firehose、Kinesis Data Analyticsからなる
 * Kinesis Data Stream は、ストリーミングデータを収集。シャードと呼ばれる単位でデータを分割して並列処理
-* Kinesis Data Firehose は、ストリーミングデータの保存
+* Kinesis Data Firehose は、ストリーミングデータをデータレイクやデータストア、分析ツールに配信するサービスであり、Amazon S3、Amazon Redshift、Amazon Elasticsearch Serrvice にロード
 * Kinesis Data Analytics は、ストリーミングデータの分析
 
 ## Amazon QuickSight
