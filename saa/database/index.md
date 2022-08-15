@@ -36,7 +36,6 @@
 * DynamoDB Auto Scaling は、テーブツとインデックスを監視して、アプリケーショントラフィックの変化に応じて自動的にスループットを調整
 * DynamoDB Accelerator (DAX) を有効化することで、DynamoDB テーブルはmsからマイクロセカンドへの最大 10 倍のパフォーマンス向上を実現
 
-
 ## Amazon ElasticCache
 * マネージド型のインメモリデータベース
 
