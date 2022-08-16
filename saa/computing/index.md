@@ -15,6 +15,7 @@
 * AMI は、EBS-Backed、Instance Store-Backed に分類
 * EBS-Backed インスタンスは、EBS を OS のルート領域として利用
 * Instance Store-Backed インスタンスは、インスタンスストアを OS のルート領域として利用
+* Instance Store-Backed インスタンスは、インスタンスの存続期間中のみデータを保持するため、インスタンスが終了すると同時にデータは自動的に削除
 
 ## AWS Elastic Beanstalk
 * Web アプリケーションやサービスをサーバーにデプロイ
