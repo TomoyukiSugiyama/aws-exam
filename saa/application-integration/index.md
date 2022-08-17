@@ -2,6 +2,8 @@
 
 * Amazon Simple Notification Service (Amazon SNS)
 * Amazon Simple Queue Service (Amazon SQS)
+* Amazon Simple Email Service (Amazon SES)
+* Amazon MQ
 
 ## Amazon Simple Notification Service (Amazon SNS)
 * メッセージ通知サービス
@@ -21,6 +23,9 @@
 * FIFO キューは、メッセージが 1 回だけ配信され、コンシューマがプロセスを処理して削除するまで使用可能なキューの状態を保つため、キューの重複がない
 * FIFO キューは、1 秒あたり 300 トランザクションに限定
 
-## Amazon Simple Email Serrvice (Amazon SES)
+## Amazon Simple Email Service (Amazon SES)
 * E メールの送受信機能を提供するサービス
 * アプリケーション上の E メール通知機能を実装
+
+## Amazon MQ
+* 業界標準 API やプロトコルを利用して、クラウド内のメッセージブローカーを利用できる Apache ActiveMQ 向けのマネージド型メッセージブローカーサービス
