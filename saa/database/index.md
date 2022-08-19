@@ -42,6 +42,8 @@
 ## Amazon RDS
 * マネージド型のリレーショナルデータベースサービス
 * Amazon Aurora、PostgreSQL、MySQL、MariaDB、Oracle Database、Microsoft SQL Server をサポート
+* リードレプリカを配置することで、低コストで読取リクエストに対応可
+* オートスケーリングを有効化することで、ストレージ容量を増加
 
 ## Amazon Redshift
 * ペタバイドクラスのデータも扱うことができるマネージド型のデータウェアハウスサービス
