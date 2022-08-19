@@ -36,8 +36,10 @@
 * DynamoDB Auto Scaling は、テーブツとインデックスを監視して、アプリケーショントラフィックの変化に応じて自動的にスループットを調整
 * DynamoDB Accelerator (DAX) を有効化することで、DynamoDB テーブルはミリセカンドからマイクロセカンドへの最大 10 倍のパフォーマンス向上を実現
 
-## Amazon ElasticCache
+## Amazon ElastiCache
 * マネージド型のインメモリデータベース
+* ElastiCache Redis は、シングルスレッドで動作し全ての操作は排他的であり、データの永続化、スナップショット機能を持つ
+* ElastiCache Memcached は、マルチスレッドで動作し、データの永続化やスナップショットは無く、フェイルオーバーや復元もできない
 
 ## Amazon RDS
 * マネージド型のリレーショナルデータベースサービス
