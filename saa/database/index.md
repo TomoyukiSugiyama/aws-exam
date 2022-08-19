@@ -39,7 +39,7 @@
 
 ## Amazon ElastiCache
 * マネージド型のインメモリデータベース
-* ElastiCache Redis は、シングルスレッドで動作し全ての操作は排他的であり、データの永続化、スナップショット機能を持つ
+* ElastiCache Redis は、シングルスレッドで動作し全ての操作は排他的であり、データの永続化、スナップショット機能、pub/sub 機能を持つ
 * ElastiCache Memcached は、マルチスレッドで動作し、データの永続化やスナップショットは無く、フェイルオーバーや復元もできない
 
 ## Amazon RDS
