@@ -29,4 +29,4 @@
 
 ## Amazon QuickSight
 * フルマネージド型の BI サービス
-* RDS や Redshift などのデータベースサービス、S3、Athena などと連携し、ダッシュボードで可視化
+* RDS や Redshift などのデータベースサービス、S3、Athena、RDS、IAM、CloudTrail、Cloud Directory などと連携し、ダッシュボードで可視化
