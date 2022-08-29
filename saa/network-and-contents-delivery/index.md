@@ -21,9 +21,6 @@
 * Elastic IP (EIP)
 * Elastic Network Interface (ENI)
 
-## Amazon API Gateway
-* API の作成、配布、保守、監視、保護
-
 ## Amazon CloudFront
 * エッジロケーションからコンテンツを配信する CDN
 * オリジンとして、ELB、EC2、S3 などを指定
