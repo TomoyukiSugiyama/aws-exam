@@ -8,8 +8,6 @@
 * AWS Serverless Application Repository
 * VMware Cloud on AWS
 * AWS Wavelength
-* () Amazon Elastic Container Service (Amazon ECS)
-* () Amazon Elastic Kubernetes Service (Amazon EKS)
 * () Elastic Load Balancing
 * () AWS Fargate
 * () AWS Lambda
@@ -45,14 +43,6 @@
 ## VMware Cloud on AWS
 
 ## AWS Wavelength
-
-## Amazon Elastic Container Service (Amazon ECS)
-* フルマネージド型のコンテナオーケストレーション
-* Docker 向け
-
-## Amazon Elastic Kubernetes Service (Amazon EKS)
-* フルマネージド型のコンテナオーケストレーション
-* Kubernetes 向け
 
 ## Elastic Load Balancing
 * ロードバランシング
