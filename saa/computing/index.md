@@ -1,14 +1,22 @@
 # コンピューティング
 
+* AWS Batch
 * Amazon EC2
+* Amazon EC2 Auto Scaling
 * AWS Elastic Beanstalk
-* Amazon Elastic Container Service (Amazon ECS)
-* Amazon Elastic Kubernetes Service (Amazon EKS)
-* Elastic Load Balancing
-* AWS Fargate
-* AWS Lambda
+* AWS Outposts
+* AWS Serverless Application Repository
+* VMware Cloud on AWS
+* AWS Wavelength
+* () Amazon Elastic Container Service (Amazon ECS)
+* () Amazon Elastic Kubernetes Service (Amazon EKS)
+* () Elastic Load Balancing
+* () AWS Fargate
+* () AWS Lambda
 
-# Amazon EC2
+## AWS Batch
+
+## Amazon EC2
 * 仮想サーバ
 * Amazon Machine Image (AMI) から起動
 * AWS Marketplace にはミドルウェアがインストール済みのサードパーティー製 AMP が用意
@@ -21,12 +29,22 @@
 * ベアメタルは、アプリケーションが基盤となるサーバーのプロセッサとメモリーに直接アクセス可能なインスタンス
 * オンデマンドインスタンスは、複数のアカウントで物理的なサーバーを共有
 
+## Amazon EC2 Auto Scaling
+
 ## AWS Elastic Beanstalk
 * Web アプリケーションやサービスをサーバーにデプロイ
 * 実行環境の管理
 * 自動的に容量のプロビジョニング、負荷分散、拡張、アプリケーションの状態の監視
 * Java、.NET、PHP、Node.js、Python、Ruby、Go が利用可
 * アプリケーションのデプロイ先は、Apache HTTP Server、Nginx、Passenger、Microsoft Internet Information Service (IIS)など
+
+## AWS Outposts
+
+## AWS Serverless Application Repository
+
+## VMware Cloud on AWS
+
+## AWS Wavelength
 
 ## Amazon Elastic Container Service (Amazon ECS)
 * フルマネージド型のコンテナオーケストレーション
