@@ -1,10 +1,19 @@
 # アプリケーション統合
 
+* Amazon AppFlow
+* AWS AppSync
+* Amazon EventBridge (Amazon CloudWatch Events)
 * Amazon MQ
 * Amazon Simple Notification Service (Amazon SNS)
 * Amazon Simple Queue Service (Amazon SQS)
 * AWS Step Functions
 * 出題範囲外 Amazon Simple Email Service (Amazon SES)
+
+## Amazon AppFlow
+
+## AWS AppSync
+
+## Amazon EventBridge (Amazon CloudWatch Events)
 
 ## Amazon MQ
 * 業界標準 API やプロトコルを利用して、クラウド内のメッセージブローカーを利用できる Apache ActiveMQ 向けのマネージド型メッセージブローカーサービス
