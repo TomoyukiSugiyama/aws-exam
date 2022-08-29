@@ -1,6 +1,5 @@
 # ネットワーク、コンテンツ配信
 
-* Amazon API Gateway
 * Amazon CloudFront
 * AWS Direct Connect
 * AWS Global Accelerator
