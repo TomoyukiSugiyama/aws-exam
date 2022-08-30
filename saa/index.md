@@ -18,6 +18,7 @@
 * [Front-End Web And Mobile](front-end-web-and-mobile.md)
 * [Machine Learning](machine-learning.md)
 * [Management and Governance](management-and-governance.md)
+* [Media Services](media-services.md)
 * [Migration and Transfer](migration-and-transfer.md)
 * [Networking and Contents Derivery](networking-and-contents-delivery.md)
 * [Security, Indetify and Compliance](security-identity-and-compliance.md)
