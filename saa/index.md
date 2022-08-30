@@ -15,7 +15,7 @@
 * [Computing](computing.md)
 * [Database](database.md)
 * [Management and Governance](management-and-governance.md)
-* [Migration and Transfer](/aws-exam/saa/migration-and-transfer/index.html)
+* [Migration and Transfer](migration-and-transfer.md)
 * [Network and Contents Derivery](/aws-exam/saa/network-and-contents-delivery/index.html)
 * [Security Indetify and Compliance](/aws-exam/saa/security-identity-and-compliance/index.html)
 * [Strage](/aws-exam/saa/storage/index.html)
