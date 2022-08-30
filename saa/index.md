@@ -7,7 +7,7 @@
 
 * [Exam Guide (SSA-C03)](https://d1.awsstatic.com/ja_JP/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
 
-## サービス
+## AWS services and features
 
 * [Analytics](analytics.md)
 * [Application Integration](application-integration.md)
