@@ -1,7 +1,6 @@
 # SAA ( Solution Architect Associate )
 
-* [Well-architected Framework](/aws-exam/saa/well-architected/index.html)  
-  https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/welcome.html
+* [Well-architected Framework](https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/welcome.html)
 
 ## ガイド
 
