@@ -1,7 +1,7 @@
 # アプリケーション統合
 
 * Amazon AppFlow
-* AWS AppSync
+* (Serverless) AWS AppSync
 * Amazon EventBridge (Amazon CloudWatch Events)
 * Amazon MQ
 * Amazon Simple Notification Service (Amazon SNS)
@@ -11,7 +11,7 @@
 
 ## Amazon AppFlow
 
-## AWS AppSync
+## (Serverless) AWS AppSync
 
 ## Amazon EventBridge (Amazon CloudWatch Events)
 * AWS の各種サービスや各種サービスや外部の SaaS などの様々なイベントリソースで発生するイベントを、あらかじめ設定したルールに基づいて、他サービスなどの様々なターゲットにリアルタイムに連携できるサービス
