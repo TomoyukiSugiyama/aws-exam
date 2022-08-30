@@ -1,11 +1,18 @@
 # 移行、転送
 
+* AWS Application Discovery Service
+* AWS Application Migration Service (CloudEndure Migration)
 * AWS Database Migration Service (AWS DMS)
 * AWS DataSync
 * AWS Migration Hub
 * AWS Server Migration Service (SMS)
-* AWS Snowball
+* AWS Snow Family
+* (対象外) AWS Snowball
 * AWS Transfer Family
+
+## AWS Application Discovery Service
+
+## AWS Application Migration Service (CloudEndure Migration)
 
 ## AWS Database Migration Service (AWS DMS)
 * データベースを AWS に移行するサービス
@@ -28,7 +35,9 @@
 * SMS は、サービス終了しており、AWS Application Migration Service (AWS MGN) に移行を推奨
 * AWS MGN は、ソースサーバーを物理インフラストラクチャ、仮想インフラストラクチャ、およびクラウドインフラストラクチャから AWS でネイティブに実行するように自動的に変換
 
-## AWS Snowball
+## AWS Snow Family
+
+## (対象外) AWS Snowball
 * AWS から物理搬送される耐久性の高い筐体に 80 TB までのデータを保管し、AWS 内のストレージへ転送するサービス
 * Snowball 内のデータは自動的に暗号化
 * 拡張版として AWS Snowball Edge があり、100 TB のストレージ、より多くのネットワークインターフェイスをサポート
