@@ -9,8 +9,8 @@
 
 ## サービス
 
-* [Analytics](/aws-exam/saa/analytics.md)
-* [Application Integration](/aws-exam/saa/application-integration.md)
+* [Analytics](analytics.md)
+* [Application Integration](application-integration.md)
 * [Computing](/aws-exam/saa/computing/index.html)
 * [Database](/aws-exam/saa/database/index.html)
 * [Management and Governance](/aws-exam/saa/management-and-governance/index.html)
