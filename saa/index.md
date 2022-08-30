@@ -13,7 +13,7 @@
 * [Application Integration](application-integration.md)
 * [Aws Cost Management](aws-cost-management.md)
 * [Computing](computing.md)
-* [Database](/aws-exam/saa/database/index.html)
+* [Database](database.md)
 * [Management and Governance](/aws-exam/saa/management-and-governance/index.html)
 * [Migration and Transfer](/aws-exam/saa/migration-and-transfer/index.html)
 * [Network and Contents Derivery](/aws-exam/saa/network-and-contents-delivery/index.html)
