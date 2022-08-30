@@ -7,14 +7,21 @@
 
 * [Exam Guide (SSA-C03)](https://d1.awsstatic.com/ja_JP/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
 
-## サービス
+## AWS services and features
 
-* [Analytics](/aws-exam/saa/analytics/index.html)
-* [Application Integration](/aws-exam/saa/application-integration/index.html)
-* [Computing](/aws-exam/saa/computing/index.html)
-* [Database](/aws-exam/saa/database/index.html)
-* [Management and Governance](/aws-exam/saa/management-and-governance/index.html)
-* [Migration and Transfer](/aws-exam/saa/migration-and-transfer/index.html)
-* [Network and Contents Derivery](/aws-exam/saa/network-and-contents-delivery/index.html)
-* [Security Indetify and Compliance](/aws-exam/saa/security-identity-and-compliance/index.html)
-* [Strage](/aws-exam/saa/storage/index.html)
+* [Analytics](analytics.md)
+* [Application Integration](application-integration.md)
+* [Aws Cost Management](aws-cost-management.md)
+* [Computing](computing.md)
+* [Containers](containers.md)
+* [Database](database.md)
+* [Developer Tools](developer-tools.md)
+* [Front-End Web And Mobile](front-end-web-and-mobile.md)
+* [Machine Learning](machine-learning.md)
+* [Management and Governance](management-and-governance.md)
+* [Media Services](media-services.md)
+* [Migration and Transfer](migration-and-transfer.md)
+* [Networking and Contents Derivery](networking-and-contents-delivery.md)
+* [Security, Indetify and Compliance](security-identity-and-compliance.md)
+* [Serverless](serverless.md)
+* [Strage](storage.md)
