@@ -14,6 +14,7 @@
 ## AWS AppSync
 
 ## Amazon EventBridge (Amazon CloudWatch Events)
+* AWS の各種サービスや各種サービスや外部の SaaS などの様々なイベントリソースで発生するイベントを、あらかじめ設定したルールに基づいて、他サービスなどの様々なターゲットにリアルタイムに連携できるサービス
 
 ## Amazon MQ
 * 業界標準 API やプロトコルを利用して、クラウド内のメッセージブローカーを利用できる Apache ActiveMQ 向けのマネージド型メッセージブローカーサービス

@@ -7,6 +7,7 @@
 * Amazon Inspector
 * AWS Key Management Service (AWS KMS)
 * Amazon Macie
+* AWS Resource Access Manager
 * AWS Secrets Manager
 * AWS Shield
 * AWS Single Sign-On
@@ -47,6 +48,9 @@
 
 ## Amazon Macie
 * 機械学習とパターンマッチングを使用して AWS の機密データを検出して保護する、フルマネージドのデータセキュリティとデータプライバシーのサービス
+
+## AWS Resource Access Manager
+* AWS Organizations 組織内で、サブネットや AWS Transit Gateway のリソースを共有するサービス
 
 ## AWS Secrets Manager
 * RDS や Redshift などのデータベースの認証情報を暗号化して集中管理・保管するサービス

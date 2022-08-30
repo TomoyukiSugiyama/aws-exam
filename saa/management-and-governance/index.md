@@ -1,14 +1,21 @@
 # マネジメント、ガバナンス
 
 * AWS Auto Scaling
-* AWS Backup
 * AWS CloudFormation
 * AWS CloudTrail
 * Amazon CloudWatch
+* AWS Command Line Interface (AWS CLI)
+* AWS Compute Optimizer
 * AWS Config
-* Amazon EventBridge (Amazon CloudWatch Events)
+* AWS Control Tower
+* AWS License Manager
+* Amazon Managed Grafana
+* Amazon Managed Service for Prometheus
+* AWS Management Console
 * AWS Organizations
-* AWS Resource Access Manager
+* AWS Personal Health Dashboard
+* AWS Proton
+* AWS Service Catalog
 * AWS Systems Manager
 * AWS Trusted Advisor
 
@@ -23,10 +30,6 @@
 * インスタンスの状態が Impaired となると数分間リカバリーされるかチェック
 * リカバリーされない場合は新しいインスタンスを起動して、Impaired のインスタンスを終了
 * Auto Scaling グループを一時的に停止しないでインスタンスを停止すると新規インスタンスが起動
-
-## AWS Backup
-* AWS 内におけるデータのバックアップを一元化・自動化するサービス
-* バックアップポリシーに基づいて、EBS ボリューム、EC2 インスタンス、RDS データベースなどのバックアップの定期実行、バックアップ状況を監視
 
 ## AWS CloudFormation
 * AWS 内のすべてのインフラストラクチャリソースを自動でプロビジョニングできるサービス
@@ -50,18 +53,32 @@
 * 基本メトリクスは、最大 15 ヶ月分保存し、5 分間隔で無料で利用
 * 詳細モニタリングは、最大 15 ヶ月分保存し、1 分感覚で追加料金が必要
 
+## AWS Command Line Interface (AWS CLI)
+
+## AWS Compute Optimizer
+
 ## AWS Config
 * AWS のサービスで管理されているリソースの構成変更を追跡するサービス
 
-## Amazon EventBridge (Amazon CloudWatch Events)
-* AWS の各種サービスや各種サービスや外部の SaaS などの様々なイベントリソースで発生するイベントを、あらかじめ設定したルールに基づいて、他サービスなどの様々なターゲットにリアルタイムに連携できるサービス
+## AWS Control Tower
+
+## AWS License Manager
+
+## Amazon Managed Grafana
+
+## Amazon Managed Service for Prometheus
+
+## AWS Management Console
 
 # AWS Organizations
 * 複数の AWS アカウント作成の自動化やグループ化による集中管理、グループにポリシーを適用したアクセス管理を実現するサービス
 * サービスコントロールポリシー (SCP) によって複数の AWS アカウントに対して、IAM ポリシーのような権限制御を統合的に管理・適用
 
-## AWS Resource Access Manager
-* AWS Organizations 組織内で、サブネットや AWS Transit Gateway のリソースを共有するサービス
+## AWS Personal Health Dashboard
+
+## AWS Proton
+
+## AWS Service Catalog
 
 ## AWS Systems Manager
 * AWS 内の様々なリソースの運用情報を統合定期に可視化、および制御するサービス
