@@ -11,6 +11,7 @@
 
 * [Analytics](analytics.md)
 * [Application Integration](application-integration.md)
+* [Aws Cost Management](aws-cost-management.md)
 * [Computing](/aws-exam/saa/computing/index.html)
 * [Database](/aws-exam/saa/database/index.html)
 * [Management and Governance](/aws-exam/saa/management-and-governance/index.html)
