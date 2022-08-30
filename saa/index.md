@@ -2,9 +2,9 @@
 
 * [Well-architected Framework](https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/welcome.html)
 
-## ガイド
+## Exam Guide
 
-* [Exam Guide (SSA-C03)](https://d1.awsstatic.com/ja_JP/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
+* [SSA-C03](https://d1.awsstatic.com/ja_JP/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
 
 ## AWS services and features
 
