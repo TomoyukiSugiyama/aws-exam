@@ -17,5 +17,5 @@
 * [Management and Governance](management-and-governance.md)
 * [Migration and Transfer](migration-and-transfer.md)
 * [Networking and Contents Derivery](networking-and-contents-delivery.md)
-* [Security Indetify and Compliance](/aws-exam/saa/security-identity-and-compliance/index.html)
+* [Security, Indetify and Compliance](security-identity-and-compliance.md)
 * [Strage](/aws-exam/saa/storage/index.html)
