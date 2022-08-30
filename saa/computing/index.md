@@ -1,14 +1,18 @@
 # コンピューティング
 
+* AWS Batch
 * Amazon EC2
+* Amazon EC2 Auto Scaling
 * AWS Elastic Beanstalk
-* Amazon Elastic Container Service (Amazon ECS)
-* Amazon Elastic Kubernetes Service (Amazon EKS)
-* Elastic Load Balancing
-* AWS Fargate
-* AWS Lambda
+* AWS Outposts
+* AWS Serverless Application Repository
+* VMware Cloud on AWS
+* AWS Wavelength
+* () Elastic Load Balancing
 
-# Amazon EC2
+## AWS Batch
+
+## Amazon EC2
 * 仮想サーバ
 * Amazon Machine Image (AMI) から起動
 * AWS Marketplace にはミドルウェアがインストール済みのサードパーティー製 AMP が用意
@@ -21,6 +25,8 @@
 * ベアメタルは、アプリケーションが基盤となるサーバーのプロセッサとメモリーに直接アクセス可能なインスタンス
 * オンデマンドインスタンスは、複数のアカウントで物理的なサーバーを共有
 
+## Amazon EC2 Auto Scaling
+
 ## AWS Elastic Beanstalk
 * Web アプリケーションやサービスをサーバーにデプロイ
 * 実行環境の管理
@@ -28,13 +34,13 @@
 * Java、.NET、PHP、Node.js、Python、Ruby、Go が利用可
 * アプリケーションのデプロイ先は、Apache HTTP Server、Nginx、Passenger、Microsoft Internet Information Service (IIS)など
 
-## Amazon Elastic Container Service (Amazon ECS)
-* フルマネージド型のコンテナオーケストレーション
-* Docker 向け
+## AWS Outposts
 
-## Amazon Elastic Kubernetes Service (Amazon EKS)
-* フルマネージド型のコンテナオーケストレーション
-* Kubernetes 向け
+## AWS Serverless Application Repository
+
+## VMware Cloud on AWS
+
+## AWS Wavelength
 
 ## Elastic Load Balancing
 * ロードバランシング
@@ -50,15 +56,3 @@
 * Connection Draining によりサーバーの処理が完了するまで解除を遅延
 * クロスゾーン負荷分散により、複数の AZ にリクエストを均等に分散
 * 外部 ELB (インターネット公開向け) と内部 ELB に分類
-
-## AWS Fargate
-* コンテナ向けサーバレスコンピューティングエンジン
-* ECS と EKS で利用可
-* ビルド、デプロイなどのコンテナの管理を移譲
-
-## AWS Lambda
-* アプリケーションコードのデプロイのみで動作するサーバレスなサービス
-* ExecutionRole でアクセス制御を設計
-* ログは、CloudWatch Logs に保存
-* Lambda@Edge は、Lambda とは異なり CloudFront の機能であり、ユーザーに最も近い場所で実行
-* Lambda レイヤーは、複数の Lambda 関数でライブラリを共有できる仕組み

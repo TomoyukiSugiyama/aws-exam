@@ -1,6 +1,5 @@
 # ネットワーク、コンテンツ配信
 
-* Amazon API Gateway
 * Amazon CloudFront
 * AWS Direct Connect
 * AWS Global Accelerator
@@ -20,9 +19,6 @@
 * VPC フローログ
 * Elastic IP (EIP)
 * Elastic Network Interface (ENI)
-
-## Amazon API Gateway
-* API の作成、配布、保守、監視、保護
 
 ## Amazon CloudFront
 * エッジロケーションからコンテンツを配信する CDN

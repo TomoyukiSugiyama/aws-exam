@@ -1,17 +1,23 @@
 # アナリティクス
 
 * Amazon Athena
-* Amazon OpenSearch Service
+* AWS Data Exchange
+* AWS Data Pipeline
 * Amazon EMR
 * AWS Glue
 * Amazon Kinesis
+* AWS Lake Formation
+* Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+* Amazon OpenSearch Service (Amazon Elasticsearch Service)
 * Amazon QuickSight
+* Amazon Redshift
 
 ## Amazon Athena
 * サーバレスのクエリサービス
 
-## Amazon OpenSearch Service
-* ログ分析、リアルタイムのアプリケーションモニタリング、クリックストリーム分析などのユースケース向けの、完全なオープンソースの検索および分析エンジン
+## AWS Data Exchange
+
+## AWS Data Pipeline
 
 ## Amazon EMR
 * 大量のデータを迅速、容易に、かつコスト効果よく処理するための Web サービス
@@ -28,6 +34,15 @@
 * Kinesis Data Firehose は、ストリーミングデータをデータレイクやデータストア、分析ツールに配信するサービスであり、Amazon S3、Amazon Redshift、Amazon Elasticsearch Serrvice にロード
 * Kinesis Data Analytics は、ストリーミングデータの分析
 
+## AWS Lake Formation
+
+## Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+
+## Amazon OpenSearch Service (Amazon Elasticsearch Service)
+* ログ分析、リアルタイムのアプリケーションモニタリング、クリックストリーム分析などのユースケース向けの、完全なオープンソースの検索および分析エンジン
+
 ## Amazon QuickSight
 * フルマネージド型の BI サービス
 * RDS や Redshift などのデータベースサービス、S3、Athena、RDS、IAM、CloudTrail、Cloud Directory などと連携し、ダッシュボードで可視化
+
+## Amazon Redshift

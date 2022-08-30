@@ -1,10 +1,16 @@
 ## データベース
 
 * Amazon Aurora
+* Amazon Aurora Serverless
+* Amazon DocumentDB (with MongoDB compatibility)
 * Amazon DynamoDB
 * Amazon ElastiCache
+* Amazon Keyspaces (for Apache Cassandra)
+* Amazon Neptune
+* Amazon Quantum Ledger Database (Amazon QLDB)
 * Amazon RDS
 * Amazon Redshift
+* Amazon Timestream
 
 ## Amazon Aurora
 * AWS が開発した完全マネージ型のリレーショナルデータベースサービス
@@ -21,6 +27,10 @@
 * スナップショットからデータベースインスタンスを復元
 * バックアップのデータベースとトランザクションログが残っている範囲内の特定の日時時点のデータを復元
 * DB クラスタが設置されているリージョンとは異なるリージョンにリードレプリカを複数作成することで、障害発生時には他のリージョンで操作を継続可能
+
+## Amazon Aurora Serverless
+
+## Amazon DocumentDB (with MongoDB compatibility)
 
 ## Amazon DynamoDB
 * マネージド型の NoSQL データベースサービス
@@ -42,6 +52,12 @@
 * ElastiCache Redis は、シングルスレッドで動作し全ての操作は排他的であり、データの永続化、スナップショット機能、pub/sub 機能を持つ
 * ElastiCache Memcached は、マルチスレッドで動作し、データの永続化やスナップショットは無く、フェイルオーバーや復元もできない
 
+## Amazon Keyspaces (for Apache Cassandra)
+
+## Amazon Neptune
+
+## Amazon Quantum Ledger Database (Amazon QLDB)
+
 ## Amazon RDS
 * マネージド型のリレーショナルデータベースサービス
 * Amazon Aurora、PostgreSQL、MySQL、MariaDB、Oracle Database、Microsoft SQL Server をサポート
@@ -60,3 +76,5 @@
 * スナップショット用に無料ストレージはあるが、上限の容量を超過すると課金が発生
 * WLM (Work Load Manager) は、 Redshift のクエリ処理に対して割り当てる Redshift のリソースを指定する機能
 * 拡張 VPC ルーティングにより、Redshift 間のすべてのトラフィックがインターネットを通過しないように設定
+
+## Amazon Timestream

@@ -1,11 +1,16 @@
 # ストレージ
 
+* AWS Backup
 * Amazon Elastic Block Store (Amazon EBS)
 * Amazon Elastic File System (Amazon EFS)
 * Amazon FSx
 * Amazon S3
 * Amazon S3 Glacier
 * AWS Storage Gateway
+
+## AWS Backup
+* AWS 内におけるデータのバックアップを一元化・自動化するサービス
+* バックアップポリシーに基づいて、EBS ボリューム、EC2 インスタンス、RDS データベースなどのバックアップの定期実行、バックアップ状況を監視
 
 ## Amazon Elastic Block Store (Amazon EBS)
 * 永続可能なブロックストレージサービス

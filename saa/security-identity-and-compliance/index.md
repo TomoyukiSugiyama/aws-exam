@@ -1,19 +1,32 @@
 # セキュリティ、アイデンティティ、コンプライアンス
 
 * AWS Certificate Manager (ACM)
+* AWS CloudHSM
+* Amazon Cognito
+* Amazon Detective
 * AWS Directory Service
+* AWS Firewall Manager
 * Amazon GuardDuty
 * AWS Identity and Access Management (IAM)
 * Amazon Inspector
 * AWS Key Management Service (AWS KMS)
 * Amazon Macie
+* AWS Network Firewall
+* AWS Resource Access Manager (AWS RAM)
 * AWS Secrets Manager
+* AWS Security Hub
 * AWS Shield
 * AWS Single Sign-On
 * AWS WAF
 
 ## AWS Certificate Manager (ACM)
 * SSL/TLS 証明書の購入や登録、更新などの一元管理ができるサービス
+
+## AWS CloudHSM
+
+## Amazon Cognito
+
+## Amazon Detective
 
 ## AWS Directory Service
 * AWS のクラウド内で管理されるマネージド型の Microsoft AD
@@ -22,11 +35,13 @@
 * Simple AD は、AWS 上で AD 互換の Samba サービスを利用可
 * AD Connector は、既存の AD 環境へ接続するためのプロキシサービス
 
+## AWS Firewall Manager
+
 ## Amazon GuardDuty
 * CloudTrail、VPC フローログ、Amazon Route 53 のクエリログといった各種ログを監視し、悪意のある第 3 者による攻撃や不正操作などのセキュリティ脅威を検知するサービス
 * 機械学習により不正な動作の学習、異常検知
 
-## AWS Identify and Access Management (IAM)
+## AWS Identity and Access Management (IAM)
 * AWS へのアクセスを安全に制御するための仕組み
 * AWS アカウントの登録
 * IAM ポリシーによる権限の付与
@@ -48,11 +63,18 @@
 ## Amazon Macie
 * 機械学習とパターンマッチングを使用して AWS の機密データを検出して保護する、フルマネージドのデータセキュリティとデータプライバシーのサービス
 
+## AWS Network Firewall
+
+## AWS Resource Access Manager (AWS RAM)
+* AWS Organizations 組織内で、サブネットや AWS Transit Gateway のリソースを共有するサービス
+
 ## AWS Secrets Manager
 * RDS や Redshift などのデータベースの認証情報を暗号化して集中管理・保管するサービス
 * アプリケーションから Secret Manager の API を実行することで、保管されているデータベースの認証情報をセキュアに取得
 * データベースの認証情報を自動的に更新
 * AWS KMS などと連携し、認証情報を暗号化する際にカギの管理を KMS で行うことが可能
+
+## AWS Security Hub
 
 ## AWS Shield
 * DoS (Denial of Services) や DDoS (Distributed Denial of Services) に代表される一斉攻撃に対する防御

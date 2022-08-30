@@ -1,9 +1,23 @@
 # アプリケーション統合
 
+* Amazon AppFlow
+* (Serverless) AWS AppSync
+* Amazon EventBridge (Amazon CloudWatch Events)
+* Amazon MQ
 * Amazon Simple Notification Service (Amazon SNS)
 * Amazon Simple Queue Service (Amazon SQS)
-* Amazon Simple Email Service (Amazon SES)
-* Amazon MQ
+* AWS Step Functions
+* 出題範囲外 Amazon Simple Email Service (Amazon SES)
+
+## Amazon AppFlow
+
+## (Serverless) AWS AppSync
+
+## Amazon EventBridge (Amazon CloudWatch Events)
+* AWS の各種サービスや各種サービスや外部の SaaS などの様々なイベントリソースで発生するイベントを、あらかじめ設定したルールに基づいて、他サービスなどの様々なターゲットにリアルタイムに連携できるサービス
+
+## Amazon MQ
+* 業界標準 API やプロトコルを利用して、クラウド内のメッセージブローカーを利用できる Apache ActiveMQ 向けのマネージド型メッセージブローカーサービス
 
 ## Amazon Simple Notification Service (Amazon SNS)
 * メッセージ通知サービス
@@ -23,9 +37,8 @@
 * FIFO キューは、メッセージが 1 回だけ配信され、コンシューマがプロセスを処理して削除するまで使用可能なキューの状態を保つため、キューの重複がない
 * FIFO キューは、1 秒あたり 300 トランザクションに限定
 
-## Amazon Simple Email Service (Amazon SES)
+## AWS Step Functions
+
+## 出題範囲外 Amazon Simple Email Service (Amazon SES)
 * E メールの送受信機能を提供するサービス
 * アプリケーション上の E メール通知機能を実装
-
-## Amazon MQ
-* 業界標準 API やプロトコルを利用して、クラウド内のメッセージブローカーを利用できる Apache ActiveMQ 向けのマネージド型メッセージブローカーサービス
