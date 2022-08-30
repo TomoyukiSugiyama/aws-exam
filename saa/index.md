@@ -14,7 +14,7 @@
 * [Aws Cost Management](aws-cost-management.md)
 * [Computing](computing.md)
 * [Database](database.md)
-* [Management and Governance](/aws-exam/saa/management-and-governance/index.html)
+* [Management and Governance](management-and-governance.md)
 * [Migration and Transfer](/aws-exam/saa/migration-and-transfer/index.html)
 * [Network and Contents Derivery](/aws-exam/saa/network-and-contents-delivery/index.html)
 * [Security Indetify and Compliance](/aws-exam/saa/security-identity-and-compliance/index.html)
