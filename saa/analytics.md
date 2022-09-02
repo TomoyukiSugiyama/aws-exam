@@ -16,6 +16,7 @@
 * サーバレスのクエリサービス
 
 ## AWS Data Exchange
+* サードパーティーが提供するデータセットを Amazon S3 を介して購読、利用できるサービス
 
 ## AWS Data Pipeline
 
