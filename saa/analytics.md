@@ -37,6 +37,7 @@
 * Kinesis Data Analytics は、ストリーミングデータの分析
 
 ## AWS Lake Formation
+* 安全なデータレイクを数日で簡単にセットアップできるサービス
 
 ## Amazon Managed Streaming for Apache Kafka (Amazon MSK)
 
