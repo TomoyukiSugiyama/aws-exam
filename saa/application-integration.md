@@ -10,6 +10,7 @@
 * 出題範囲外 Amazon Simple Email Service (Amazon SES)
 
 ## Amazon AppFlow
+* Salesforce、SAP、Zendesk、Slack、および ServiceNow などの SaaS アプリケーションと、Amazon S3 や Amazon Redshift などの AWS のサービスとの間で、たった数回のクリックでデータを安全に転送できるフルマネージド統合サービス
 
 ## (Serverless) AWS AppSync
 
