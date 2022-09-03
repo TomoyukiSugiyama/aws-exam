@@ -61,6 +61,7 @@
 * 高速で信頼性が高いフルマネージド型のグラフデータベースサービス
 
 ## Amazon Quantum Ledger Database (Amazon QLDB)
+* フルマネージド型の台帳データベース
 
 ## Amazon RDS
 * マネージド型のリレーショナルデータベースサービス
