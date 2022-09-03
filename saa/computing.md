@@ -37,6 +37,7 @@
 * アプリケーションのデプロイ先は、Apache HTTP Server、Nginx、Passenger、Microsoft Internet Information Service (IIS)など
 
 ## AWS Outposts
+* AWS インフラストラクチャとサービスを事実上すべてのオンプレミスまたはエッジロケーションに提供
 
 ## AWS Serverless Application Repository
 
