@@ -58,6 +58,7 @@
 * スケーラブルで可用性の高い、Apache Cassandra 互換のマネージドデータベースサービス
 
 ## Amazon Neptune
+* 高速で信頼性が高いフルマネージド型のグラフデータベースサービス
 
 ## Amazon Quantum Ledger Database (Amazon QLDB)
 
