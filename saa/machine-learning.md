@@ -32,6 +32,7 @@
 * 文章をリアルな音声に変換するサービス
 
 ## Amazon Rekognition
+* 機械学習 (ML) を利用して画像と動画の分析を自動化
 
 ## Amazon SageMaker
 
