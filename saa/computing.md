@@ -11,6 +11,7 @@
 * () Elastic Load Balancing
 
 ## AWS Batch
+* フルマネージド型バッチ処理
 
 ## Amazon EC2
 * 仮想サーバ
@@ -26,6 +27,7 @@
 * オンデマンドインスタンスは、複数のアカウントで物理的なサーバーを共有
 
 ## Amazon EC2 Auto Scaling
+* 条件に応じて EC2 インスタンスを自動的に追加または削除
 
 ## AWS Elastic Beanstalk
 * Web アプリケーションやサービスをサーバーにデプロイ
