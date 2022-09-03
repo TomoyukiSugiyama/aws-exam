@@ -2,23 +2,26 @@
 
 * Amazon CloudFront
 * AWS Direct Connect
+* Elastic Load Balancing (ELB)
 * AWS Global Accelerator
+* AWS PrivateLink
 * Amazon Route 53
 * AWS Transit Gateway
-* Amazon Virtual Private Cloud (Amazon VPC)
-* サブネット
-* Internet Gateway (IGW)
-* ルートテーブル
-* NAT ゲートウェイ
-* セキュリティグループ
-* ネットワーク ACL
-* Site to Site VPN
-* Virtual Private Gateway (VGW)
-* VPC ピアリング
-* VPC エンドポイント
-* VPC フローログ
-* Elastic IP (EIP)
-* Elastic Network Interface (ENI)
+* Amazon VPC
+* AWS VPN
+* (試験ガイド外) サブネット
+* (試験ガイド外) Internet Gateway (IGW)
+* (試験ガイド外) ルートテーブル
+* (試験ガイド外) NAT ゲートウェイ
+* (試験ガイド外) セキュリティグループ
+* (試験ガイド外) ネットワーク ACL
+* (試験ガイド外) Site to Site VPN
+* (試験ガイド外) Virtual Private Gateway (VGW)
+* (試験ガイド外) VPC ピアリング
+* (試験ガイド外) VPC エンドポイント
+* (試験ガイド外) VPC フローログ
+* (試験ガイド外) Elastic IP (EIP)
+* (試験ガイド外) Elastic Network Interface (ENI)
 
 ## Amazon CloudFront
 * エッジロケーションからコンテンツを配信する CDN
@@ -33,8 +36,25 @@
 * オンプレミス環境と AWS 間を専用線で接続
 * Direct Connect の追加機能として Direct Connect ゲートウェイがあり、オンプレミス環境とゼンリージョンの複数の VPC を 1 対多で接続可能
 
+## Elastic Load Balancing (ELB)
+* ロードバランシング
+* CLB、ALB、NLB に分類
+* CLB は、標準的なロードバランシング
+* ALB は、リクエストレベル (レイヤー7) で動作し、HTTP、HTTPS トラフィックを振り分ける
+* NLB は、レイヤー7 で動作し、低レイテンシー、高いスループット
+* 複数の AZ へ分散する高可用性
+* ELB 自体に冗長化が確保され、自動でスケール
+* SSL 復号
+* ヘルスチェックを行い、インスタンスへの振り分けを停止
+* スティッキーセッションにより、一度セッションを確立したインスタンスへユーザのリクエストを送信
+* Connection Draining によりサーバーの処理が完了するまで解除を遅延
+* クロスゾーン負荷分散により、複数の AZ にリクエストを均等に分散
+* 外部 ELB (インターネット公開向け) と内部 ELB に分類
+
 ## AWS Global Accelerator
 * エッジロケーションを経由し、AWS が管理するネットワーク網を利用することでトラフィックを最適化
+
+## AWS PrivateLink
 
 ## Amazon Route 53
 * 可用性の高い DNS
@@ -61,26 +81,28 @@
 ## AWS Transit Gateway
 * VPC 内のハブの機能を持ったゲートウェイ
 
-## Amazon Virtual Private Cloud (Amazon VPC)
+## Amazon VPC
 * 論理的に分割された、特定のユーザーだけが利用できるプライベートネットワーク
 
-## サブネット
+## AWS VPN
+
+## (試験ガイド外) サブネット
 * VPC 内に構成するネットワークセグメント
 * 1 つの VPC に対して複数作成可
 * VPC の IP アドレスの範囲内で CIDR を指定
 * パブリックサブネットとプライベートサブネットに分類
 * パブリックサブネットは、インターネットとの通信が可能
 
-## Internet Gateway (IGW)
+## (試験ガイド外) Internet Gateway (IGW)
 * インターネットへアクセスするためのゲートウェイ
 
-## ルートテーブル
+## (試験ガイド外) ルートテーブル
 * 静的ルーティングを指定したもの
 
-## NAT ゲートウェイ
+## (試験ガイド外) NAT ゲートウェイ
 * プライベートサブネットからインターネットへ接続するための NAT 機能
 
-## セキュリティグループ
+## (試験ガイド外) セキュリティグループ
 * インスタンス単位のファイアウォール機能
 * アウトバウンドとインバウンドを設定
 * アウトバウンドは、インスタンスから出る通信を制御
@@ -90,37 +112,37 @@
 * 設定追加、変更は即時に反映
 * **ステートフル**な通信が可能
 
-## ネットワーク ACL
+## (試験ガイド外) ネットワーク ACL
 * サブネット単位のファイアウォール機能
 * アウトバウンド通信、インバウンド通信は全て許可
 * ルールに番号を割り当て、番号順に許可または拒否のルールを適用
 * **ステートレス**な通信
 
-## Site to Site VPN
+## (試験ガイド外) Site to Site VPN
 * IP パケットを暗号化した IPsec を利用し、オンプレミス環境と AWS 間を接続
 * 低コスト、短期間で導入可能
 
-## Virtual Private Gateway (VGW)
+## (試験ガイド外) Virtual Private Gateway (VGW)
 * オンプレミス環境と AWS を接続する際のゲートウェイ
 * Direct Connect 接続、Site to Site VPN で利用
 
-## VPC ピアリング
+## (試験ガイド外) VPC ピアリング
 * VPC 間をプライベート接続
 
-## VPC エンドポイント
+## (試験ガイド外) VPC エンドポイント
 * プライベートネットワークから AWS サービスへアクセスするためのエンドポイント
 * ゲートウェイ型とインターフェイス型に分類
 * ゲートウェイ型は、ルートテーブルに指定されたターゲットを追加
 * インターフェイス型は、「AWS Private Link」とも呼ばれ、インターネットを経由せずプライベート接続
 
-## VPC フローログ
+## (試験ガイド外) VPC フローログ
 * VPC 内の ENI で通信するトラフィック情報をキャプチャ
 
-## Elastic IP (EIP)
+## (試験ガイド外) Elastic IP (EIP)
 * 固定のグローバル IP アドレス
 * IP フローティングを利用し、フローティングすることで、障害発生時に稼働系から EIP を外し待機系インスタンスに割り当て直すことで瞬時にトラフィックの向け先を変更
 
-## Elastic Network Interface (ENI)
+## (試験ガイド外) Elastic Network Interface (ENI)
 * 仮想ネットワークカードを表す VPC の論理ネットワークコンポーネント
 * ホットアタッチは、実行中のアタッチ
 * ウォームアタッチは、停止中のアタッチ
