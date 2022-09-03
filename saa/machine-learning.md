@@ -20,6 +20,7 @@
 * ビジネスメトリクス分析に利用
 
 ## Amazon Fraud Detector
+* 機械学習 (ML) の経験がなくても、不正検出モデルを構築、デプロイ、管理
 
 ## Amazon Kendra
 
