@@ -43,6 +43,7 @@
 * サーバーレスアプリケーション用のマネージド型リポジトリ
 
 ## VMware Cloud on AWS
+* VMwareのエンタープライズクラスのSoftware-Defined データセンターアーキテクチャをクラウド上で実現する、フルマネージドで共同エンジニアリングされたサービス
 
 ## AWS Wavelength
 
