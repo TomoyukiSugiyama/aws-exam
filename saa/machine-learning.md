@@ -13,6 +13,7 @@
 * Amazon Translate
 
 ## Amazon Comprehend
+* 機械学習を使用して、テキストからインサイトや関係性を発見するための自然言語処理 (NLP) サービス
 
 ## Amazon Forecast
 
