@@ -11,6 +11,7 @@
 * 予算額を超過しそうな場合、超過した場合に CloudWatch アラームや SNS トピック、メールなどで通知
 
 ## AWS Cost and Usage Report
+* AWS のコストと使用状況データをより詳しく見る
 
 ## Cost Explorer
 * AWS Cost and Usage Report のデータをグラフィカルに可視化
