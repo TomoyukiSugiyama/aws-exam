@@ -11,6 +11,7 @@
 * AWS Transfer Family
 
 ## AWS Application Discovery Service
+* オンプレミスサーバーのインベントリと動作を確認
 
 ## AWS Application Migration Service (CloudEndure Migration)
 
