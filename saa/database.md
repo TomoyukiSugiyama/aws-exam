@@ -29,6 +29,7 @@
 * DB クラスタが設置されているリージョンとは異なるリージョンにリードレプリカを複数作成することで、障害発生時には他のリージョンで操作を継続可能
 
 ## Amazon Aurora Serverless
+* Amazon Aurora のオンデマンドの Auto Scaling 設定
 
 ## Amazon DocumentDB (with MongoDB compatibility)
 
