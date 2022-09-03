@@ -11,8 +11,10 @@
 * AWS Transfer Family
 
 ## AWS Application Discovery Service
+* オンプレミスサーバーのインベントリと動作を確認
 
 ## AWS Application Migration Service (CloudEndure Migration)
+* 最小限のダウンタイムで、アプリケーションをクラウドに移行
 
 ## AWS Database Migration Service (AWS DMS)
 * データベースを AWS に移行するサービス
@@ -36,6 +38,7 @@
 * AWS MGN は、ソースサーバーを物理インフラストラクチャ、仮想インフラストラクチャ、およびクラウドインフラストラクチャから AWS でネイティブに実行するように自動的に変換
 
 ## AWS Snow Family
+* ペタバイト単位のデータをオフラインで AWS へ移動するための専用デバイス
 
 ## (対象外) AWS Snowball
 * AWS から物理搬送される耐久性の高い筐体に 80 TB までのデータを保管し、AWS 内のストレージへ転送するサービス

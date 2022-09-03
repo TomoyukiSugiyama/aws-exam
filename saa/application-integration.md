@@ -1,17 +1,19 @@
 # アプリケーション統合
 
 * Amazon AppFlow
-* (Serverless) AWS AppSync
+* AWS AppSync
 * Amazon EventBridge (Amazon CloudWatch Events)
 * Amazon MQ
 * Amazon Simple Notification Service (Amazon SNS)
 * Amazon Simple Queue Service (Amazon SQS)
 * AWS Step Functions
-* 出題範囲外 Amazon Simple Email Service (Amazon SES)
+* (試験ガイド外) Amazon Simple Email Service (Amazon SES)
 
 ## Amazon AppFlow
+* Salesforce、SAP、Zendesk、Slack、および ServiceNow などの SaaS アプリケーションと、Amazon S3 や Amazon Redshift などの AWS のサービスとの間で、たった数回のクリックでデータを安全に転送できるフルマネージド統合サービス
 
-## (Serverless) AWS AppSync
+## AWS AppSync
+* サーバレスに記載
 
 ## Amazon EventBridge (Amazon CloudWatch Events)
 * AWS の各種サービスや各種サービスや外部の SaaS などの様々なイベントリソースで発生するイベントを、あらかじめ設定したルールに基づいて、他サービスなどの様々なターゲットにリアルタイムに連携できるサービス
@@ -38,7 +40,8 @@
 * FIFO キューは、1 秒あたり 300 トランザクションに限定
 
 ## AWS Step Functions
+* デベロッパーが分散アプリケーションの構築、IT およびビジネスプロセスの自動化、AWS のサービスを利用したデータと機械学習のパイプラインの構築に使用するローコードのビジュアルワークフローサービス
 
-## 出題範囲外 Amazon Simple Email Service (Amazon SES)
+## (試験ガイド外) Amazon Simple Email Service (Amazon SES)
 * E メールの送受信機能を提供するサービス
 * アプリケーション上の E メール通知機能を実装

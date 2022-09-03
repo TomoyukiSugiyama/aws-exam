@@ -29,8 +29,10 @@
 * DB クラスタが設置されているリージョンとは異なるリージョンにリードレプリカを複数作成することで、障害発生時には他のリージョンで操作を継続可能
 
 ## Amazon Aurora Serverless
+* Amazon Aurora のオンデマンドの Auto Scaling 設定
 
 ## Amazon DocumentDB (with MongoDB compatibility)
+* ミッションクリティカルなMongoDB のワークロードを運用するための、スケーラブルかつ高い耐久性の、フルマネージドデータベースサービス
 
 ## Amazon DynamoDB
 * マネージド型の NoSQL データベースサービス
@@ -53,10 +55,13 @@
 * ElastiCache Memcached は、マルチスレッドで動作し、データの永続化やスナップショットは無く、フェイルオーバーや復元もできない
 
 ## Amazon Keyspaces (for Apache Cassandra)
+* スケーラブルで可用性の高い、Apache Cassandra 互換のマネージドデータベースサービス
 
 ## Amazon Neptune
+* 高速で信頼性が高いフルマネージド型のグラフデータベースサービス
 
 ## Amazon Quantum Ledger Database (Amazon QLDB)
+* フルマネージド型の台帳データベース
 
 ## Amazon RDS
 * マネージド型のリレーショナルデータベースサービス
@@ -78,3 +83,4 @@
 * 拡張 VPC ルーティングにより、Redshift 間のすべてのトラフィックがインターネットを通過しないように設定
 
 ## Amazon Timestream
+* IoT および運用アプリケーションに適した、高速かつスケーラブルなサーバーレス時系列データベースサービス

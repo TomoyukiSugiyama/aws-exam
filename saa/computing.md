@@ -8,9 +8,9 @@
 * AWS Serverless Application Repository
 * VMware Cloud on AWS
 * AWS Wavelength
-* () Elastic Load Balancing
 
 ## AWS Batch
+* フルマネージド型バッチ処理
 
 ## Amazon EC2
 * 仮想サーバ
@@ -26,6 +26,7 @@
 * オンデマンドインスタンスは、複数のアカウントで物理的なサーバーを共有
 
 ## Amazon EC2 Auto Scaling
+* 条件に応じて EC2 インスタンスを自動的に追加または削除
 
 ## AWS Elastic Beanstalk
 * Web アプリケーションやサービスをサーバーにデプロイ
@@ -35,24 +36,13 @@
 * アプリケーションのデプロイ先は、Apache HTTP Server、Nginx、Passenger、Microsoft Internet Information Service (IIS)など
 
 ## AWS Outposts
+* AWS インフラストラクチャとサービスを事実上すべてのオンプレミスまたはエッジロケーションに提供
 
 ## AWS Serverless Application Repository
+* サーバーレスアプリケーション用のマネージド型リポジトリ
 
 ## VMware Cloud on AWS
+* VMwareのエンタープライズクラスのSoftware-Defined データセンターアーキテクチャをクラウド上で実現する、フルマネージドで共同エンジニアリングされたサービス
 
 ## AWS Wavelength
-
-## Elastic Load Balancing
-* ロードバランシング
-* CLB、ALB、NLB に分類
-* CLB は、標準的なロードバランシング
-* ALB は、リクエストレベル (レイヤー7) で動作し、HTTP、HTTPS トラフィックを振り分ける
-* NLB は、レイヤー7 で動作し、低レイテンシー、高いスループット
-* 複数の AZ へ分散する高可用性
-* ELB 自体に冗長化が確保され、自動でスケール
-* SSL 復号
-* ヘルスチェックを行い、インスタンスへの振り分けを停止
-* スティッキーセッションにより、一度セッションを確立したインスタンスへユーザのリクエストを送信
-* Connection Draining によりサーバーの処理が完了するまで解除を遅延
-* クロスゾーン負荷分散により、複数の AZ にリクエストを均等に分散
-* 外部 ELB (インターネット公開向け) と内部 ELB に分類
+* AWS コンピューティングおよびストレージサービスを 5G ネットワーク内に組み込んで、超低レイテンシーアプリケーションの開発、デプロイおよびスケーリングのためのモバイルエッジコンピューティングインフラストラクチャ

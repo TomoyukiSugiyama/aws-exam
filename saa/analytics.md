@@ -16,8 +16,10 @@
 * サーバレスのクエリサービス
 
 ## AWS Data Exchange
+* サードパーティーが提供するデータセットを Amazon S3 を介して購読、利用できるサービス
 
 ## AWS Data Pipeline
+* 指定された間隔で、AWS の様々なコンピューティングサービスやストレージサービスのほか、オンプレミスのデータソース間で信頼性の高いデータ処理やデータ移動を行うことを支援するサービス
 
 ## Amazon EMR
 * 大量のデータを迅速、容易に、かつコスト効果よく処理するための Web サービス
@@ -35,8 +37,11 @@
 * Kinesis Data Analytics は、ストリーミングデータの分析
 
 ## AWS Lake Formation
+* 安全なデータレイクを数日で簡単にセットアップできるサービス
 
 ## Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+* フルマネージドな Apache Kafka
+* ストリーミングデータの取り込みと処理をリアルタイムで簡単に行う
 
 ## Amazon OpenSearch Service (Amazon Elasticsearch Service)
 * ログ分析、リアルタイムのアプリケーションモニタリング、クリックストリーム分析などのユースケース向けの、完全なオープンソースの検索および分析エンジン
@@ -46,3 +51,4 @@
 * RDS や Redshift などのデータベースサービス、S3、Athena、RDS、IAM、CloudTrail、Cloud Directory などと連携し、ダッシュボードで可視化
 
 ## Amazon Redshift
+* データベースに記載

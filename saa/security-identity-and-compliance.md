@@ -23,10 +23,14 @@
 * SSL/TLS 証明書の購入や登録、更新などの一元管理ができるサービス
 
 ## AWS CloudHSM
+* クラウドベースのハードウェアセキュリティモジュール
+* AWS クラウドで暗号化キーを簡単に生成して使用可能
 
 ## Amazon Cognito
+* ウェブアプリケーションおよびモバイルアプリに素早く簡単にユーザーのサインアップ/サインインおよびアクセスコントロールの機能を追加
 
 ## Amazon Detective
+* 潜在的なセキュリティ問題や不審なアクティビティの根本原因を簡単に分析、調査し、すばやく特定可能
 
 ## AWS Directory Service
 * AWS のクラウド内で管理されるマネージド型の Microsoft AD
@@ -36,6 +40,7 @@
 * AD Connector は、既存の AD 環境へ接続するためのプロキシサービス
 
 ## AWS Firewall Manager
+* アカウントとアプリケーション全体で一元的にファイアウォールのルールを設定、管理できるようにするセキュリティ管理サービス
 
 ## Amazon GuardDuty
 * CloudTrail、VPC フローログ、Amazon Route 53 のクエリログといった各種ログを監視し、悪意のある第 3 者による攻撃や不正操作などのセキュリティ脅威を検知するサービス
@@ -64,6 +69,7 @@
 * 機械学習とパターンマッチングを使用して AWS の機密データを検出して保護する、フルマネージドのデータセキュリティとデータプライバシーのサービス
 
 ## AWS Network Firewall
+* すべての Amazon Virtual Private Cloud (VPC) に不可欠なネットワーク保護を簡単にデプロイできるようにするマネージドサービス
 
 ## AWS Resource Access Manager (AWS RAM)
 * AWS Organizations 組織内で、サブネットや AWS Transit Gateway のリソースを共有するサービス
@@ -75,6 +81,7 @@
 * AWS KMS などと連携し、認証情報を暗号化する際にカギの管理を KMS で行うことが可能
 
 ## AWS Security Hub
+* AWS のセキュリティチェックの自動化とセキュリティアラートの一元化
 
 ## AWS Shield
 * DoS (Denial of Services) や DDoS (Distributed Denial of Services) に代表される一斉攻撃に対する防御

@@ -54,31 +54,42 @@
 * 詳細モニタリングは、最大 15 ヶ月分保存し、1 分感覚で追加料金が必要
 
 ## AWS Command Line Interface (AWS CLI)
+* AWS のサービスを管理するための統合ツール
+* ダウンロードおよび設定用の単一のツールのみを使用して、コマンドラインから AWS の複数のサービスを制御し、スクリプトを使用してこれらを自動化
 
 ## AWS Compute Optimizer
+* ワークロードに最適な AWS リソースを推奨し、機械学習を使って過去の使用率メトリクスを分析することで、コストを削減し、パフォーマンスを向上
 
 ## AWS Config
 * AWS のサービスで管理されているリソースの構成変更を追跡するサービス
 
 ## AWS Control Tower
+* セキュアなマルチアカウント AWS 環境をセットアップおよび管理するための最も簡単な方法
 
 ## AWS License Manager
+* Microsoft、SAP、Oracle、IBM といったベンダーが提供するライセンスの管理を、AWS とオンプレミス環境で簡単に行えるサービス
 
 ## Amazon Managed Grafana
+* Grafana Labs と共同で開発したオープンソースの Grafana 向けのフルマネージドサービス
 
 ## Amazon Managed Service for Prometheus
+* Prometheus との互換性を持つモニタリングおよびアラートサービス
 
 ## AWS Management Console
+* AWS クラウドにアクセスして管理するウェブインターフェイス
 
 # AWS Organizations
 * 複数の AWS アカウント作成の自動化やグループ化による集中管理、グループにポリシーを適用したアクセス管理を実現するサービス
 * サービスコントロールポリシー (SCP) によって複数の AWS アカウントに対して、IAM ポリシーのような権限制御を統合的に管理・適用
 
 ## AWS Personal Health Dashboard
+* お客様の環境に影響を及ぼす可能性のある AWS イベントのアラートやガイダンス
 
 ## AWS Proton
+* セルフサービスのインフラストラクチャテンプレートとプロビジョニングの自動化
 
 ## AWS Service Catalog
+* AWS での使用が承認された IT サービスのカタログを作成および管理
 
 ## AWS Systems Manager
 * AWS 内の様々なリソースの運用情報を統合定期に可視化、および制御するサービス
