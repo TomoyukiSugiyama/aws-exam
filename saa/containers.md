@@ -25,3 +25,4 @@
 * カスタマーマネージドインフラストラクチャで Kubernetes クラスターを作成および運用できるようにする、AWS がサポートする Amazon EKS のための新しいデプロイオプション
 
 ## Amazon EKS Distro
+* AWS によって構築および保守され、Amazon Elastic Kubernetes Service (EKS) で使用される Kubernetes ディストリビューションで、信頼性と安全性の高いクラスターを簡単に作成
