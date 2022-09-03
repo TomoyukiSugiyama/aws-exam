@@ -40,6 +40,8 @@
 * 安全なデータレイクを数日で簡単にセットアップできるサービス
 
 ## Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+* フルマネージドな Apache Kafka
+* ストリーミングデータの取り込みと処理をリアルタイムで簡単に行う
 
 ## Amazon OpenSearch Service (Amazon Elasticsearch Service)
 * ログ分析、リアルタイムのアプリケーションモニタリング、クリックストリーム分析などのユースケース向けの、完全なオープンソースの検索および分析エンジン
