@@ -32,6 +32,7 @@
 * Amazon Aurora のオンデマンドの Auto Scaling 設定
 
 ## Amazon DocumentDB (with MongoDB compatibility)
+* ミッションクリティカルなMongoDB のワークロードを運用するための、スケーラブルかつ高い耐久性の、フルマネージドデータベースサービス
 
 ## Amazon DynamoDB
 * マネージド型の NoSQL データベースサービス
@@ -54,6 +55,7 @@
 * ElastiCache Memcached は、マルチスレッドで動作し、データの永続化やスナップショットは無く、フェイルオーバーや復元もできない
 
 ## Amazon Keyspaces (for Apache Cassandra)
+* スケーラブルで可用性の高い、Apache Cassandra 互換のマネージドデータベースサービス
 
 ## Amazon Neptune
 
