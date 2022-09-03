@@ -81,6 +81,7 @@
 * AWS KMS などと連携し、認証情報を暗号化する際にカギの管理を KMS で行うことが可能
 
 ## AWS Security Hub
+* AWS のセキュリティチェックの自動化とセキュリティアラートの一元化
 
 ## AWS Shield
 * DoS (Denial of Services) や DDoS (Distributed Denial of Services) に代表される一斉攻撃に対する防御
