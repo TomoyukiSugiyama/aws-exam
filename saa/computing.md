@@ -40,6 +40,7 @@
 * AWS インフラストラクチャとサービスを事実上すべてのオンプレミスまたはエッジロケーションに提供
 
 ## AWS Serverless Application Repository
+* サーバーレスアプリケーション用のマネージド型リポジトリ
 
 ## VMware Cloud on AWS
 
