@@ -14,6 +14,7 @@
 * オンプレミスサーバーのインベントリと動作を確認
 
 ## AWS Application Migration Service (CloudEndure Migration)
+* 最小限のダウンタイムで、アプリケーションをクラウドに移行
 
 ## AWS Database Migration Service (AWS DMS)
 * データベースを AWS に移行するサービス
