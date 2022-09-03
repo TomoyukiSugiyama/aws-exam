@@ -67,10 +67,13 @@
 * セキュアなマルチアカウント AWS 環境をセットアップおよび管理するための最も簡単な方法
 
 ## AWS License Manager
+* Microsoft、SAP、Oracle、IBM といったベンダーが提供するライセンスの管理を、AWS とオンプレミス環境で簡単に行えるサービス
 
 ## Amazon Managed Grafana
+* Grafana Labs と共同で開発したオープンソースの Grafana 向けのフルマネージドサービス
 
 ## Amazon Managed Service for Prometheus
+* Prometheus との互換性を持つモニタリングおよびアラートサービス
 
 ## AWS Management Console
 
