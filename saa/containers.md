@@ -8,6 +8,7 @@
 * Amazon EKS Distro
 
 ## Amazon Elastic Container Registry (Amazon ECR)
+* ハイパフォーマンスホスティングを提供するフルマネージドコンテナレジストリ
 
 ## Amazon Elastic Container Service (Amazon ECS)
 * フルマネージド型のコンテナオーケストレーション
