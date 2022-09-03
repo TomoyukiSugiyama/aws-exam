@@ -20,4 +20,3 @@
 * ログは、CloudWatch Logs に保存
 * Lambda@Edge は、Lambda とは異なり CloudFront の機能であり、ユーザーに最も近い場所で実行
 * Lambda レイヤーは、複数の Lambda 関数でライブラリを共有できる仕組み
-
