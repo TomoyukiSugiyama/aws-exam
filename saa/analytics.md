@@ -51,3 +51,4 @@
 * RDS や Redshift などのデータベースサービス、S3、Athena、RDS、IAM、CloudTrail、Cloud Directory などと連携し、ダッシュボードで可視化
 
 ## Amazon Redshift
+* データベースに記載
