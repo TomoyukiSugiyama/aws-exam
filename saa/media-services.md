@@ -1,7 +1,8 @@
-# メディアサービス
+- [メディアサービス](#メディアサービス)
+  - [Amazon Elastic Transcoder](#amazon-elastic-transcoder)
+  - [Amazon Kinesis Video Streams](#amazon-kinesis-video-streams)
 
-* Amazon Elastic Transcoder
-* Amazon Kinesis Video Streams
+# メディアサービス
 
 ## Amazon Elastic Transcoder
 * クラウドのメディア変換サービス

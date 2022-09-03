@@ -1,14 +1,15 @@
-# 移行、転送
+- [移行、転送](#移行転送)
+  - [AWS Application Discovery Service](#aws-application-discovery-service)
+  - [AWS Application Migration Service (CloudEndure Migration)](#aws-application-migration-service-cloudendure-migration)
+  - [AWS Database Migration Service (AWS DMS)](#aws-database-migration-service-aws-dms)
+  - [AWS DataSync](#aws-datasync)
+  - [AWS Migrartion Hub](#aws-migrartion-hub)
+  - [AWS Server Migration Service (SMS)](#aws-server-migration-service-sms)
+  - [AWS Snow Family](#aws-snow-family)
+  - [(対象外) AWS Snowball](#対象外-aws-snowball)
+  - [AWS Transfer Familly](#aws-transfer-familly)
 
-* AWS Application Discovery Service
-* AWS Application Migration Service (CloudEndure Migration)
-* AWS Database Migration Service (AWS DMS)
-* AWS DataSync
-* AWS Migration Hub
-* AWS Server Migration Service (SMS)
-* AWS Snow Family
-* (対象外) AWS Snowball
-* AWS Transfer Family
+# 移行、転送
 
 ## AWS Application Discovery Service
 * オンプレミスサーバーのインベントリと動作を確認

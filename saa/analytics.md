@@ -1,16 +1,17 @@
-# アナリティクス
+- [アナリティクス](#アナリティクス)
+  - [Amazon Athena](#amazon-athena)
+  - [AWS Data Exchange](#aws-data-exchange)
+  - [AWS Data Pipeline](#aws-data-pipeline)
+  - [Amazon EMR](#amazon-emr)
+  - [AWS Glue](#aws-glue)
+  - [Amazon Kinesis](#amazon-kinesis)
+  - [AWS Lake Formation](#aws-lake-formation)
+  - [Amazon Managed Streaming for Apache Kafka (Amazon MSK)](#amazon-managed-streaming-for-apache-kafka-amazon-msk)
+  - [Amazon OpenSearch Service (Amazon Elasticsearch Service)](#amazon-opensearch-service-amazon-elasticsearch-service)
+  - [Amazon QuickSight](#amazon-quicksight)
+  - [Amazon Redshift](#amazon-redshift)
 
-* Amazon Athena
-* AWS Data Exchange
-* AWS Data Pipeline
-* Amazon EMR
-* AWS Glue
-* Amazon Kinesis
-* AWS Lake Formation
-* Amazon Managed Streaming for Apache Kafka (Amazon MSK)
-* Amazon OpenSearch Service (Amazon Elasticsearch Service)
-* Amazon QuickSight
-* Amazon Redshift
+# アナリティクス
 
 ## Amazon Athena
 * サーバレスのクエリサービス

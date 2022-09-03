@@ -1,12 +1,13 @@
-# ストレージ
+- [ストレージ](#ストレージ)
+  - [AWS Backup](#aws-backup)
+  - [Amazon Elastic Block Store (Amazon EBS)](#amazon-elastic-block-store-amazon-ebs)
+  - [Amazon Elastic File System (Amazon EFS)](#amazon-elastic-file-system-amazon-efs)
+  - [Amazon FSx](#amazon-fsx)
+  - [Amazon S3](#amazon-s3)
+  - [Amazon S3 Glacier](#amazon-s3-glacier)
+  - [AWS Storage Gateway](#aws-storage-gateway)
 
-* AWS Backup
-* Amazon Elastic Block Store (Amazon EBS)
-* Amazon Elastic File System (Amazon EFS)
-* Amazon FSx
-* Amazon S3
-* Amazon S3 Glacier
-* AWS Storage Gateway
+# ストレージ
 
 ## AWS Backup
 * AWS 内におけるデータのバックアップを一元化・自動化するサービス

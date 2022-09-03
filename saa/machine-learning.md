@@ -1,16 +1,17 @@
-# 機械学習
+- [機械学習](#機械学習)
+  - [Amazon Comprehend](#amazon-comprehend)
+  - [Amazon Forecast](#amazon-forecast)
+  - [Amazon Fraud Detector](#amazon-fraud-detector)
+  - [Amazon Kendra](#amazon-kendra)
+  - [Amazon Lex](#amazon-lex)
+  - [Amazon Polly](#amazon-polly)
+  - [Amazon Rekognition](#amazon-rekognition)
+  - [Amazon SageMaker](#amazon-sagemaker)
+  - [Amazon Textract](#amazon-textract)
+  - [Amazon Transcribe](#amazon-transcribe)
+  - [Amazon Translate](#amazon-translate)
 
-* Amazon Comprehend
-* Amazon Forecast
-* Amazon Fraud Detector
-* Amazon Kendra
-* Amazon Lex
-* Amazon Polly
-* Amazon Rekognition
-* Amazon SageMaker
-* Amazon Textract
-* Amazon Transcribe
-* Amazon Translate
+# 機械学習
 
 ## Amazon Comprehend
 * 機械学習を使用して、テキストからインサイトや関係性を発見するための自然言語処理 (NLP) サービス

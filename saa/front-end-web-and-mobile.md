@@ -1,9 +1,10 @@
-# フロントエンドのウェブとモバイル
+- [フロントエンドのウェブとモバイル](#フロントエンドのウェブとモバイル)
+  - [AWS Amplify](#aws-amplify)
+  - [Amazon API Gateway](#amazon-api-gateway)
+  - [AWS Device Farm](#aws-device-farm)
+  - [Amazon Pinpoint](#amazon-pinpoint)
 
-* AWS Amplify
-* Amazon API Gateway
-* AWS Device Farm
-* Amazon Pinpoint
+# フロントエンドのウェブとモバイル
 
 ## AWS Amplify
 * フロントエンドのウェブ/モバイルデベロッパーが AWS でフルスタックアプリケーションをすばやく簡単に構築できるようにする専用のツールと一連の機能
