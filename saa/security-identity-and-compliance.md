@@ -69,6 +69,7 @@
 * 機械学習とパターンマッチングを使用して AWS の機密データを検出して保護する、フルマネージドのデータセキュリティとデータプライバシーのサービス
 
 ## AWS Network Firewall
+* すべての Amazon Virtual Private Cloud (VPC) に不可欠なネットワーク保護を簡単にデプロイできるようにするマネージドサービス
 
 ## AWS Resource Access Manager (AWS RAM)
 * AWS Organizations 組織内で、サブネットや AWS Transit Gateway のリソースを共有するサービス
