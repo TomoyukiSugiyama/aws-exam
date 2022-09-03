@@ -1,8 +1,9 @@
-# サーバレス
+- [サーバレス](#サーバレス)
+  - [AWS AppSync](#aws-appsync)
+  - [AWS Fargate](#aws-fargate)
+  - [AWS Lambda](#aws-lambda)
 
-* AWS AppSync
-* AWS Fargate
-* AWS Lambda
+# サーバレス
 
 ## AWS AppSync
 * 最新のウェブおよびモバイルアプリケーションの構築を簡素化するサーバーレス GraphQL および Pub/Sub API のサービス

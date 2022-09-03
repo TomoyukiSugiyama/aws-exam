@@ -1,9 +1,10 @@
-# AWS の請求情報とコスト管理
+- [AWS の請求情報とコスト管理](#aws-の請求情報とコスト管理)
+  - [AWS Badgets](#aws-badgets)
+  - [AWS Cost and Usage Report](#aws-cost-and-usage-report)
+  - [Cost Explorer](#cost-explorer)
+  - [Savings Plans](#savings-plans)
 
-* AWS Budgets
-* AWS Cost and Usage Report
-* Cost Explorer
-* Savings Plans
+# AWS の請求情報とコスト管理
 
 ## AWS Badgets
 * 予算の作成が可能
