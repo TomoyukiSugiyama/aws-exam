@@ -15,10 +15,15 @@
 
 ## Amazon Athena
 * サーバレスのクエリサービス
-* S3 に保存されたデータに対して標準的な SQL を実行可能
+* Amazon S3 に保存されたデータに対して標準的な SQL を実行可能
 
 ## AWS Data Exchange
-* サードパーティーが提供するデータセットを Amazon S3 を介して購読、利用できるサービス
+* サードパーティーが提供するデータセットを購読、利用できるサービス
+* Amazon S3、Amazon API Gateway、Amazon Redshift、AWS Marketplace と関連する
+* 購読者は、Amazon S3 にデータセットをエクスポート可能
+* 購読者は、プログラムで API を呼び出したり、AWS Data Exchange コンソールから API を呼び出したり、OpenAPI 仕様ファイルをダウンロードしたりすることが可能
+* Amazon Redshiftのデータセットをサポート
+* データセットがAWS Marketplaceで製品として公開されることを可能にする
 
 ## AWS Data Pipeline
 * 指定された間隔で、AWS の様々なコンピューティングサービスやストレージサービスのほか、オンプレミスのデータソース間で信頼性の高いデータ処理やデータ移動を行うことを支援するサービス
