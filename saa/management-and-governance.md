@@ -11,7 +11,7 @@
   - [Amazon Managed Grafana](#amazon-managed-grafana)
   - [Amazon Managed Service for Prometheus](#amazon-managed-service-for-prometheus)
   - [AWS Management Console](#aws-management-console)
-- [AWS Organizations](#aws-organizations)
+  - [AWS Organizations](#aws-organizations)
   - [AWS Personal Health Dashboard](#aws-personal-health-dashboard)
   - [AWS Proton](#aws-proton)
   - [AWS Service Catalog](#aws-service-catalog)
@@ -79,7 +79,7 @@
 ## AWS Management Console
 * AWS クラウドにアクセスして管理するウェブインターフェイス
 
-# AWS Organizations
+## AWS Organizations
 * 複数の AWS アカウント作成の自動化やグループ化による集中管理、グループにポリシーを適用したアクセス管理を実現するサービス
 * サービスコントロールポリシー (SCP) によって複数の AWS アカウントに対して、IAM ポリシーのような権限制御を統合的に管理・適用
 
