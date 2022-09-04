@@ -22,8 +22,8 @@
 * Amazon S3、Amazon API Gateway、Amazon Redshift、AWS Marketplace と関連する
 * 購読者は、Amazon S3 にデータセットをエクスポート可能
 * 購読者は、プログラムで API を呼び出したり、AWS Data Exchange コンソールから API を呼び出したり、OpenAPI 仕様ファイルをダウンロードしたりすることが可能
-* Amazon Redshiftのデータセットをサポート
-* データセットがAWS Marketplaceで製品として公開されることを可能にする
+* Amazon Redshift のデータセットをサポート
+* AWS Data Exchange はデータセットが AWS Marketplace で製品として公開されることを許可
 
 ## AWS Data Pipeline
 * 指定された間隔で、AWS の様々なコンピューティングサービスやストレージサービスのほか、オンプレミスのデータソース間で信頼性の高いデータ処理やデータ移動を行うことを支援するサービス
