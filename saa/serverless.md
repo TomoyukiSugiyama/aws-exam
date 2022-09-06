@@ -18,7 +18,8 @@
 
 ## AWS Lambda
 * アプリケーションコードのデプロイのみで動作するサーバレスなサービス
-* ExecutionRole でアクセス制御を設計
+* IAM ロールでアクセス制御を設計
 * ログは、CloudWatch Logs に保存
 * Lambda@Edge は、Lambda とは異なり CloudFront の機能であり、ユーザーに最も近い場所で実行
 * Lambda レイヤーは、複数の Lambda 関数でライブラリを共有できる仕組み
+* Lambda 関数の最長実行時間は、15 分
