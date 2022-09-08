@@ -23,4 +23,4 @@
 * [Networking and Contents Derivery](networking-and-contents-delivery.md)
 * [Security, Indetify and Compliance](security-identity-and-compliance.md)
 * [Serverless](serverless.md)
-* [Strage](storage.md)
+* [Storage](storage.md)
