@@ -14,7 +14,7 @@
 * Salesforce、SAP、Zendesk、Slack、および ServiceNow などの SaaS アプリケーションと、Amazon S3 や Amazon Redshift などの AWS のサービスとの間で、たった数回のクリックでデータを安全に転送できるフルマネージド統合サービス
 
 ## AWS AppSync
-* サーバレスに記載
+* [サーバレスに記載](serverless.md#aws-appsync)
 
 ## Amazon EventBridge (Amazon CloudWatch Events)
 * AWS の各種サービスや各種サービスや外部の SaaS などの様々なイベントリソースで発生するイベントを、あらかじめ設定したルールに基づいて、他サービスなどの様々なターゲットにリアルタイムに連携できるサービス

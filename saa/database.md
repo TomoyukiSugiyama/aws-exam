@@ -1,17 +1,17 @@
 - [データベース](#データベース)
-- [Amazon Aurora](#amazon-aurora)
-- [Amazon Aurora Serverless](#amazon-aurora-serverless)
-- [Amazon DocumentDB (with MongoDB compatibility)](#amazon-documentdb-with-mongodb-compatibility)
-- [Amazon DynamoDB](#amazon-dynamodb)
-- [Amazon ElastiCache](#amazon-elasticache)
-- [Amazon Keyspaces (for Apache Cassandra)](#amazon-keyspaces-for-apache-cassandra)
-- [Amazon Neptune](#amazon-neptune)
-- [Amazon Quantum Ledger Database (Amazon QLDB)](#amazon-quantum-ledger-database-amazon-qldb)
-- [Amazon RDS](#amazon-rds)
-- [Amazon Redshift](#amazon-redshift)
-- [Amazon Timestream](#amazon-timestream)
+  - [Amazon Aurora](#amazon-aurora)
+  - [Amazon Aurora Serverless](#amazon-aurora-serverless)
+  - [Amazon DocumentDB (with MongoDB compatibility)](#amazon-documentdb-with-mongodb-compatibility)
+  - [Amazon DynamoDB](#amazon-dynamodb)
+  - [Amazon ElastiCache](#amazon-elasticache)
+  - [Amazon Keyspaces (for Apache Cassandra)](#amazon-keyspaces-for-apache-cassandra)
+  - [Amazon Neptune](#amazon-neptune)
+  - [Amazon Quantum Ledger Database (Amazon QLDB)](#amazon-quantum-ledger-database-amazon-qldb)
+  - [Amazon RDS](#amazon-rds)
+  - [Amazon Redshift](#amazon-redshift)
+  - [Amazon Timestream](#amazon-timestream)
 
-## データベース
+# データベース
 
 ## Amazon Aurora
 * AWS が開発した完全マネージ型のリレーショナルデータベースサービス
@@ -70,6 +70,8 @@
 * リードレプリカを配置することで、低コストで読取リクエストに対応可
 * オートスケーリングを有効化することで、ストレージ容量を増加
 * RDS プロキシを利用することで、アプリケーションと RDB データベースの間の仲介役として機能し、必要なコネクションをプーリングすることで、既存のコネクションを再利用しコネクションを効率的に実行
+* 暗号化オプションを有効化すると、DB インスタンス、自動バックアップ、リードレプリカ、スナップショットを暗号化
+* インスタンス作成時にのみ暗号化オプションを設定可能
 
 ## Amazon Redshift
 * ペタバイドクラスのデータも扱うことができるマネージド型のデータウェアハウスサービス
